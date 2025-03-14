@@ -3,7 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.2
 // @description  Replace image src from gwz.fudan.edu.cn to current hostname
-// @author       Grok, SoizoKtantas
+// @author       Grok
+// @author       SoizoKtantas
 // @match        http://www.fdgwz.org.cn/*
 // @grant        none
 // ==/UserScript==
